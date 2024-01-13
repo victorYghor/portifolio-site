@@ -1,0 +1,38 @@
+img {
+    width: 500px;
+}
+.foto-perfil {
+    width: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro {
+    display:flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.titulo {
+    width: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.side-bar {
+    gap: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head-text {
+    text-size: 80px;
+}
